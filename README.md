@@ -68,7 +68,6 @@ During this process, I explored different AI frameworks and worked with various 
 <img width="1912" height="402" alt="Ekran görüntüsü 2025-09-24 151137" src="https://github.com/user-attachments/assets/a6fc7b3a-51a5-4f92-95d7-d54f65ebf4a1" />
 <img width="1178" height="406" alt="Ekran görüntüsü 2025-09-24 151017" src="https://github.com/user-attachments/assets/464143a4-b264-43bb-8481-319632d8780e" />
 <img width="1177" height="185" alt="Ekran görüntüsü 2025-09-24 150328" src="https://github.com/user-attachments/assets/1c8ce703-0343-4488-8573-4556c2fbaaa8" />
-![Adsız tasarım_page-0001](https://github.com/user-attachments/assets/46d8cdfc-1361-48de-98cf-1932b090c967)
 <img width="1175" height="172" alt="Ekran görüntüsü 2025-09-24 111141" src="https://github.com/user-attachments/assets/0f50c760-3951-4d67-9ff9-05656cb5f400" />
 <img width="1180" height="422" alt="Ekran görüntüsü 2025-09-24 111012" src="https://github.com/user-attachments/assets/521fddca-9309-4ad8-a8ca-eb7d103b28bb" />
 <img width="1392" height="551" alt="Ekran görüntüsü 2025-09-24 110702" src="https://github.com/user-attachments/assets/5085bf53-8c66-4590-9c31-9ea7522db1d6" />
